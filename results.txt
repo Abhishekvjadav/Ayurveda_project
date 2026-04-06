@@ -1,0 +1,3 @@
+AYURVEDIC GNN - TRAINING RESULTS
+====================================================
+Logistic Regression:  AUC=0.8584
