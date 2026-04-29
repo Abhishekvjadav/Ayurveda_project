@@ -1,0 +1,39 @@
+Test,Herb 1+2,Score,Expected,Status
+Classical Yoga,Amla + Haritaki,1.0,>0.7,PASS
+Classical Yoga,Amla + Bibhitaki,1.0,>0.7,PASS
+Classical Yoga,Haritaki + Bibhitaki,1.0,>0.7,PASS
+Classical Yoga,Ardraka + Pippali,1.0,>0.7,PASS
+Classical Yoga,Maricha + Pippali,1.0,>0.7,PASS
+Classical Yoga,Ardraka + Maricha,1.0,>0.7,PASS
+Classical Yoga,Ashwagandha + Shatavari,0.9995,>0.7,PASS
+Classical Yoga,Ashwagandha + Brahmi,0.9952,>0.7,PASS
+Classical Yoga,Tulsi + Ardraka,1.0,>0.7,PASS
+Classical Yoga,Amla + Ashwagandha,1.0,>0.7,PASS
+Classical Yoga,Punarnava + Gokshura,0.0008,>0.7,FAIL
+Classical Yoga,Brahmi + Jatamansi,1.0,>0.7,PASS
+Classical Yoga,Arjuna + Punarnava,1.0,>0.7,PASS
+Viruddha,Tulsi + Amla,0.0525,<0.5,PASS
+Viruddha,Tulsi + Shatavari,0.0,<0.5,PASS
+Viruddha,Tulsi + Rohitaka,0.0,<0.5,PASS
+Viruddha,Tulsi + Jatamansi,0.0,<0.5,PASS
+Viruddha,Tulsi + Chandana,0.0,<0.5,PASS
+Viruddha,Ashwagandha + Amla,0.0191,<0.5,PASS
+Viruddha,Ashwagandha + Shatavari,0.9995,<0.5,FAIL
+Viruddha,Ashwagandha + Rohitaka,0.0,<0.5,PASS
+Viruddha,Ashwagandha + Jatamansi,0.0,<0.5,PASS
+Viruddha,Ashwagandha + Chandana,0.0,<0.5,PASS
+Viruddha,Giloy + Amla,1.0,<0.5,FAIL
+Viruddha,Giloy + Shatavari,0.9913,<0.5,FAIL
+Viruddha,Giloy + Rohitaka,1.0,<0.5,FAIL
+Viruddha,Giloy + Jatamansi,1.0,<0.5,FAIL
+Viruddha,Giloy + Chandana,0.0,<0.5,PASS
+Viruddha,Nagarmotha + Amla,0.0,<0.5,PASS
+Viruddha,Nagarmotha + Shatavari,0.0,<0.5,PASS
+Viruddha,Nagarmotha + Rohitaka,1.0,<0.5,FAIL
+Viruddha,Nagarmotha + Jatamansi,0.0,<0.5,PASS
+Viruddha,Nagarmotha + Chandana,0.0,<0.5,PASS
+Viruddha,Agnimantha + Amla,0.0,<0.5,PASS
+Viruddha,Agnimantha + Shatavari,0.0,<0.5,PASS
+Viruddha,Agnimantha + Rohitaka,0.0,<0.5,PASS
+Viruddha,Agnimantha + Jatamansi,0.0,<0.5,PASS
+Viruddha,Agnimantha + Chandana,0.0,<0.5,PASS
